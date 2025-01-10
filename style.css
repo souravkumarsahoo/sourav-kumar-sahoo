@@ -1,0 +1,24 @@
+#ab{
+    border-style:dotted solid double dashed;
+    border-color: brown;
+    BORDER:2PX SOLID RED;
+    padding: 20PX 40PX 60PX 80PX;
+}
+#bc{
+    border-style:dotted solid double;
+    border-color: brown;
+    BORDER:2PX SOLID RED;
+    PADDING:20PX 40PX 80PX;
+}
+#cd{
+    border-style:dotted solid;
+    border-color: brown;
+    BORDER:2PX SOLID RED;
+    border-radius: 5PX;
+    padding: 5PX;
+}
+#de{
+    border-style:dotted;
+    border-color: brown;
+}
+
